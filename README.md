@@ -32,7 +32,7 @@
 
 ### 1. Clone the Repository / Depoyu klonlayın
 ```bash
-git clone https://github.com/yourusername/discord-email-verifier.git
+git clone https://github.com/ayazpw/discord-email-verifier.git
 cd discord-email-verifier 
 ```
 
